@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Osama Alek
+- 👀 I’m interested in Android, Back-End, Front-End, and Blockchain
+- 🌱 I’m currently learning everything
+- 📫 You can reach me via my email : osamaalek99@gmail.com
